@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Verdana, "Times New Roman", Tahoma, sans-serif;
+    color: whitesmoke;
+    background-color: black;
+}
+
+img {
+    border-radius: 5%;
+}
+
+.recipes-list ul, li, a {
+    color: wheat;
+    list-style: none;
+    text-decoration: none;
+}
